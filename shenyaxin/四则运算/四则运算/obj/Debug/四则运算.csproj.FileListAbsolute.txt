@@ -1,0 +1,7 @@
+E:\四则运算\四则运算\bin\Debug\四则运算.exe.config
+E:\四则运算\四则运算\bin\Debug\四则运算.exe
+E:\四则运算\四则运算\bin\Debug\四则运算.pdb
+E:\四则运算\四则运算\obj\Debug\四则运算.csprojAssemblyReference.cache
+E:\四则运算\四则运算\obj\Debug\四则运算.csproj.CoreCompileInputs.cache
+E:\四则运算\四则运算\obj\Debug\四则运算.exe
+E:\四则运算\四则运算\obj\Debug\四则运算.pdb
